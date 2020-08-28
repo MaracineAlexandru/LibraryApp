@@ -1,0 +1,11 @@
+com\sda\dao\AuthorDao.class
+com\sda\Service\AuthorValidatorService.class
+com\sda\dao\GenericDao.class
+com\sda\LibraryApp.class
+com\sda\Main.class
+com\sda\util\HibernateUtil.class
+com\sda\model\Book.class
+com\sda\dao\BookDao.class
+com\sda\Service\BookValidatorService.class
+com\sda\Service\IOService.class
+com\sda\model\Author.class
